@@ -15,11 +15,15 @@ There's no way to actually measure the amount of convoys passing a canal so Cana
 This mod is very lightweight and only edits the canal production method "10_canals.txt" and the building file "10_canals.txt", as such it's compatible with anything that doesn't alter canals.
 
 ---
-## Can I modify this mod/use the code?
-I can't really stop anyone from doing that. It's also not really an issue, but if you genuinely take parts of this mod for yourself, give me some credit or simply message me.
 
-[(https://github.com/Araxiel/Vic3-Canal-Dividend-Income/blob/development/Misc/Thumbnail%20HQ.gif?raw=true) Go to the Steam Workshop page of this mod][1]
+&ensp; | Useful Links
+------------ | -------------
+[<img src="https://i.imgur.com/STnEC0Y.gif" alt="Steam Thumbnail" width="128"/>][1] | [Go to the Steam Workshop page of this mod][1]
+
+## Can I modify this mod/use the code?
+Not only can't really stop anyone from doing that, but I also aren't really opposed to it. However if one takes parts of this mod, give me some credit or message me.
+
 ---
 [![ko-fi](https://i.imgur.com/oq8l7M4.png)](https://ko-fi.com/V7V5JAG7A)
----
+
 [1]:http://steamcommunity.com/sharedfiles/filedetails/?id=891139945
