@@ -18,7 +18,7 @@ This mod is very lightweight and only edits the canal production method "10_cana
 ## Can I modify this mod/use the code?
 I can't really stop anyone from doing that. It's also not really an issue, but if you genuinely take parts of this mod for yourself, give me some credit or simply message me.
 
-[(https://github.com/Araxiel/Vic3-Canal-Dividend-Income/blob/development/Misc/Thumbnail HQ.gif?raw=true) Go to the Steam Workshop page of this mod][1]
+[(https://github.com/Araxiel/Vic3-Canal-Dividend-Income/blob/development/Misc/Thumbnail%20HQ.gif?raw=true) Go to the Steam Workshop page of this mod][1]
 ---
 [![ko-fi](https://i.imgur.com/oq8l7M4.png)](https://ko-fi.com/V7V5JAG7A)
 ---
