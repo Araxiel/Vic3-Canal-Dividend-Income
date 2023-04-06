@@ -56,11 +56,11 @@ canal_dividends.1 = {
 					has_building = building_suez_canal
 				}
 				b:building_suez_canal = {
-					save_scope_as = canal_accident_suez
 					add_modifier = {
 						name = modifier_building_canal_accident
 						months = normal_modifier_time
 					}
+					save_scope_as = canal_accident_suez
 				}
 			}
 			if = {
@@ -68,13 +68,18 @@ canal_dividends.1 = {
 					has_building = building_panama_canal
 				}
 				b:building_panama_canal = {
-					save_scope_as = canal_accident_panama
 					add_modifier = {
 						name = modifier_building_canal_accident
 						months = normal_modifier_time
 					}
+					save_scope_as = canal_accident_panama
 				}
 			}
+
+			#add_modifier = {
+			#	name = modifier_state_canal_accident
+			#	months = normal_modifier_time
+			#}
 		}
 	}
 

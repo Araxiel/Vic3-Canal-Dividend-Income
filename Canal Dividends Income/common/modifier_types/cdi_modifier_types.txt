@@ -7,3 +7,18 @@ building_output_canalToll_add = {
 	good = yes
 	percent = no
 }
+
+building_group_bg_canals_throughput_mult = {
+	good = yes
+	percent = yes
+}
+
+building_output_canalToll_mult = {
+	good = yes
+	percent = yes
+}
+
+building_output_transportation_mult = {
+	good = yes
+	percent = yes
+}

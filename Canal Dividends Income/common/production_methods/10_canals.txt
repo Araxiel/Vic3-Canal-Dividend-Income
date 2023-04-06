@@ -8,6 +8,13 @@
 		}
 	}
 
+	# Thinking about perhaps boosting ports/convoys somehow, but this doesn't work, and I don't wanna just add convoys
+	#state_modifiers = {
+	#	workforce_scaled = {
+	#		building_port_throughput_mult = 0.25
+	#	}
+	#}
+
 	building_modifiers = {
 		workforce_scaled = {
 			# input goods
