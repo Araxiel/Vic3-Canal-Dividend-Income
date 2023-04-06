@@ -1,4 +1,4 @@
-namespace = canal_dividends
+﻿namespace = canal_dividends
 
 canal_dividends.1 = {
 	type = country_event # can be country_event, character_event, or state_event
