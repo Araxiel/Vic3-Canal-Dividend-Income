@@ -1,0 +1,27 @@
+name: Suggestion
+description: Add a suggestion for a new feature or general ideas.
+title: "[Suggestion]: "
+labels:
+  - feedback
+  - enhancement
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this bug report!
+  - type: input
+    id: elevator-pitch
+    attributes:
+      label: Elevator Pitch
+      description: Give a one sentence elevator pitch of your suggestion.
+      placeholder: "Add guns to the canal"
+    validations:
+      required: true
+  - type: textarea
+    id: longform
+    attributes:
+      label: Suggestion
+      description: Write out your suggestion.
+      value: "Guns are cool"
+    validations:
+      required: true
