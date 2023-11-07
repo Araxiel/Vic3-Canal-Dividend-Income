@@ -1,7 +1,10 @@
 # Canal Dividend Income
+ ![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/araxiel/Vic3-Canal-Dividend-Income) ![GitHub repo size](https://img.shields.io/github/repo-size/araxiel/Dead_Money-Vicky3_Fallout) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/araxiel/Vic3-Canal-Dividend-Income) <br>
+![Steam Subscriptions](https://img.shields.io/steam/subscriptions/2942007769?logo=steam) ![Steam Views](https://img.shields.io/steam/views/2942007769?logo=steam) ![Steam Update Date](https://img.shields.io/steam/update-date/2942007769?logo=steam)
+<br>
+ ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FAraxiel%2FVic3-Canal-Dividend-Income%2Freadmes%2FCanal%2520Dividends%2520Income%2F.metadata%2Fmetadata.json&query=%24.supported_game_version&label=Supported%20Vic3%20Version&color=orange) <br>
 
-Lightweight mod that gives Canals a proper income paid out to you in dividends.
-Requires Update 1.2
+Lightweight mod that gives Canals a proper income paid out to you in dividends.<br>
 
 ## What this mod does
 This mod allows canals (the Suez Canal and Panama Canal) to actually generate a proper revenue, which in turn allows them to generate profits which will be paid out to shareholders. Who those shareholders are, is decided on by the usual ownership production methods found in all buildings. This means the dividends can be paid out to capitalists, or the canals can be government run which yields income to the government, or they can be run as a worker cooperative. There's also a unique ownership model dubbed "Partial Privatization", which splits the profits between the government and capitalists. All those laws are as usual limited to your economic system (no rent seeking canal landlords under the glorious leadership of the Dictatorship of the Proletariat). However like the railways, government run remains an option as long as the system is not laissez-faire.
@@ -26,4 +29,4 @@ Not only can't really stop anyone from doing that, but I also aren't really oppo
 ---
 [![ko-fi](https://i.imgur.com/oq8l7M4.png)](https://ko-fi.com/V7V5JAG7A)
 
-[1]:http://steamcommunity.com/sharedfiles/filedetails/?id=891139945
+[1]:https://steamcommunity.com/sharedfiles/filedetails/?id=2942007769
