@@ -2,7 +2,7 @@
  ![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/araxiel/Vic3-Canal-Dividend-Income) ![GitHub repo size](https://img.shields.io/github/repo-size/araxiel/Dead_Money-Vicky3_Fallout) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/araxiel/Vic3-Canal-Dividend-Income) <br>
 ![Steam Subscriptions](https://img.shields.io/steam/subscriptions/2942007769?logo=steam) ![Steam Views](https://img.shields.io/steam/views/2942007769?logo=steam) ![Steam Update Date](https://img.shields.io/steam/update-date/2942007769?logo=steam)
 <br>
- ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FAraxiel%2FVic3-Canal-Dividend-Income%2Freadmes%2FCanal%2520Dividends%2520Income%2F.metadata%2Fmetadata.json&query=%24.supported_game_version&label=Supported%20Vic3%20Version&color=orange) <br>
+[![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FAraxiel%2FVic3-Canal-Dividend-Income%2Fdevelopment%2FCanal%2520Dividends%2520Income%2F.metadata%2Fmetadata.json&query=%24.supported_game_version&label=Supported%20Vic3%20Version&color=orange)](https://vic3.paradoxwikis.com/Patches)  <br>
 
 Lightweight mod that gives Canals a proper income paid out to you in dividends.<br>
 
