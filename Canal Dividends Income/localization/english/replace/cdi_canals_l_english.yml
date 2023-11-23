@@ -1,17 +1,17 @@
-﻿l_english: 
+l_english: 
 
   canalToll: "Canal Toll"
   canalToll_desc: "A toll connect from canals."
 
-  modifier_building_output_canalToll_mult: "Building @canalToll! $canalToll$ output"
-  modifier_building_output_canalToll_mult_desc: "A bonus or penalty to the amount of @canalToll! $canalToll$ produced by buildings"
-  modifier_building_output_transportation_mult: "Building @transportation! $transportation$ output"
-  modifier_building_output_transportation_mult_desc: "A bonus or penalty to the amount of @transportation! $transportation$ produced by buildings"
+  modifier_goods_output_canalToll_mult: "Building @canalToll! $canalToll$ output"
+  modifier_goods_output_canalToll_mult_desc: "A bonus or penalty to the amount of @canalToll! $canalToll$ produced by buildings"
+  modifier_goods_output_transportation_mult: "Building @transportation! $transportation$ output"
+  modifier_goods_output_transportation_mult_desc: "A bonus or penalty to the amount of @transportation! $transportation$ produced by buildings"
 
-  modifier_building_input_canalToll_add: "@canalToll! $canalToll$ input per level"
-  modifier_building_input_canalToll_add_desc: "The amount of @canalToll! $canalToll$ used by buildings"
-  modifier_building_output_canalToll_add: "@canalToll! $canalToll$ output per level"
-  modifier_building_output_canalToll_add_desc: "The amount of @canalToll! $canalToll$ produced by buildings"
+  modifier_goods_input_canalToll_add: "@canalToll! $canalToll$ input per level"
+  modifier_goods_input_canalToll_add_desc: "The amount of @canalToll! $canalToll$ used by buildings"
+  modifier_goods_output_canalToll_add: "@canalToll! $canalToll$ output per level"
+  modifier_goods_output_canalToll_add_desc: "The amount of @canalToll! $canalToll$ produced by buildings"
 
   bg_canals: "Canals"
   modifier_building_group_bg_canals_throughput_mult: "$bg_canals$ [concept_throughput]"

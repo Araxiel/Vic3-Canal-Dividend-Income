@@ -3,10 +3,10 @@
   canalToll: "运河通航税"
   canalToll_desc: "一种来自运河的通行费"
 
-  modifier_building_input_canalToll_add: "@canalToll! $canalToll$ 每级输入"
-  modifier_building_input_canalToll_add_desc: "建筑物使用的 @canalToll! $canalToll$"
-  modifier_building_output_canalToll_add: "@canalToll! $canalToll$ 每级输出"
-  modifier_building_output_canalToll_add_desc: "建筑物生产的 @canalToll! $canalToll$"
+  modifier_goods_input_canalToll_add: "@canalToll! $canalToll$ 每级输入"
+  modifier_goods_input_canalToll_add_desc: "建筑物使用的 @canalToll! $canalToll$"
+  modifier_goods_output_canalToll_add: "@canalToll! $canalToll$ 每级输出"
+  modifier_goods_output_canalToll_add_desc: "建筑物生产的 @canalToll! $canalToll$"
 
   pmg_ownership_capital_building_canals: "$pmg_ownership$"
 
