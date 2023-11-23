@@ -1,0 +1,6 @@
+﻿modifier_building_canal_accident = {
+	icon = gfx/interface/icons/timed_modifier_icons/modifier_gear_negative.dds
+
+    goods_output_canalToll_mult = -0.5
+    goods_input_tools_mult = 2
+}

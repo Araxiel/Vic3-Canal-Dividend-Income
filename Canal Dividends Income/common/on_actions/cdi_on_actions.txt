@@ -1,0 +1,7 @@
+﻿on_yearly_pulse_country = {
+
+	random_events = {
+		7 = 0
+		1 = canal_dividends.1
+	}
+}
