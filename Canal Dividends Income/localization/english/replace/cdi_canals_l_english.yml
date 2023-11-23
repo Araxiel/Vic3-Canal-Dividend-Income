@@ -1,4 +1,4 @@
-l_english: 
+﻿l_english: 
 
   canalToll: "Canal Toll"
   canalToll_desc: "A toll connect from canals."
@@ -32,5 +32,9 @@ l_english:
   canal_dividends.1.d: "A merchant vessel didn't pay attention and accidentally ran aground in the canal, blocking the way and making the passage more dangerous until completely cleared."
   canal_dividends.1.f: "The large trading ship lies half tilted in the canal, on its side a gashing wound from the impact with the wall, its goods spilled across the passage, finery and exotic wares bobbing in the water, the expensive merchandise of a foreign land soaked and ruined.\n\nOn the shore stands the captain, his face in his hands and his hat floating in the canal. Next to him the company's insurance representative holding a water damaged ship manifest trying to make sense of it all, while a canal agent tries to explain that the clearing might take months."
   canal_dividends.1.1: "$expedition_events.542.a$"
-  modifier_building_canal_accident: "$canal_dividends.1.t$"
-  modifier_state_canal_accident: "$canal_dividends.1.t$"
+  modifier_building_canal_accident: "Canal Accident"
+
+
+  ## missing vanilla
+  modifier_goods_input_tools_mult: "@tools![Nbsp]Tools input"
+  modifier_goods_input_tools_mult_desc: "The amount of @tools![Nbsp]Tools consumed by buildings"

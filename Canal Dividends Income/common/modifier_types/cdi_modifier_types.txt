@@ -1,4 +1,4 @@
-goods_input_canalToll_add = {
+﻿goods_input_canalToll_add = {
 	good = no
 	percent = no
 }
@@ -21,4 +21,10 @@ goods_output_canalToll_mult = {
 goods_output_transportation_mult = {
 	good = yes
 	percent = yes
+}
+
+goods_input_tools_mult = {
+	good = no
+	percent = yes
+	num_decimals = 0
 }

@@ -1,15 +1,6 @@
-﻿
-modifier_state_canal_accident = {
+﻿modifier_building_canal_accident = {
 	icon = gfx/interface/icons/timed_modifier_icons/modifier_gear_negative.dds
 
-    building_group_bg_canals_throughput_mult = -0.5
+    goods_output_canalToll_mult = -0.5
+    goods_input_tools_mult = 2
 }
-
-modifier_building_canal_accident = {
-	icon = gfx/interface/icons/timed_modifier_icons/modifier_gear_negative.dds
-
-    building_input_mult = 0.5
-    building_output_canalToll_mult = -0.75
-    building_output_transportation_mult = -0.75
-}
-
